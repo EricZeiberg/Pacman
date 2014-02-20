@@ -1,0 +1,5 @@
+name: Pacman
+version: 1.0
+author: [MasterEjzz]
+main: me.masterejay.pacman.Pacman
+depends: [WorldEdit]
